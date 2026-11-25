@@ -1,0 +1,436 @@
+[
+  {
+    "category": "Chat & research",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com/",
+    "access": "Hosted",
+    "description": "Conversational writing, coding and analysis; check plan limits."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Claude",
+    "url": "https://claude.ai/",
+    "access": "Hosted",
+    "description": "Conversational assistant for writing and code."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Gemini",
+    "url": "https://gemini.google.com/",
+    "access": "Hosted",
+    "description": "Multimodal assistant and document-related workflows."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/",
+    "access": "Hosted",
+    "description": "Search-assisted answers; verify original sources."
+  },
+  {
+    "category": "Chat & research",
+    "name": "NotebookLM",
+    "url": "https://notebooklm.google.com/",
+    "access": "Hosted",
+    "description": "Explore and summarize user-supplied sources."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Elicit",
+    "url": "https://elicit.com/",
+    "access": "Hosted",
+    "description": "Literature discovery and evidence extraction."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Consensus",
+    "url": "https://consensus.app/",
+    "access": "Hosted",
+    "description": "Search research literature by question."
+  },
+  {
+    "category": "Chat & research",
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "access": "Hosted",
+    "description": "Find research papers and citation relationships."
+  },
+  {
+    "category": "Coding",
+    "name": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "access": "Hosted",
+    "description": "Code suggestions and coding assistance in supported editors."
+  },
+  {
+    "category": "Coding",
+    "name": "Cursor",
+    "url": "https://cursor.com/",
+    "access": "Hosted",
+    "description": "AI-assisted code editor with repository context."
+  },
+  {
+    "category": "Coding",
+    "name": "Aider",
+    "url": "https://aider.chat/",
+    "access": "Local client",
+    "description": "Terminal-based coding with connected language models."
+  },
+  {
+    "category": "Coding",
+    "name": "Continue",
+    "url": "https://www.continue.dev/",
+    "access": "Local client",
+    "description": "Editor coding assistance with configurable models."
+  },
+  {
+    "category": "Coding",
+    "name": "Cline",
+    "url": "https://cline.bot/",
+    "access": "Local client",
+    "description": "Coding agent for editor workflows; review tool approvals."
+  },
+  {
+    "category": "Coding",
+    "name": "OpenCode",
+    "url": "https://opencode.ai/",
+    "access": "Local client",
+    "description": "Terminal coding agent with selectable model providers."
+  },
+  {
+    "category": "Coding",
+    "name": "Zed",
+    "url": "https://zed.dev/",
+    "access": "Local client",
+    "description": "Code editor with optional AI integration."
+  },
+  {
+    "category": "Coding",
+    "name": "Tabnine",
+    "url": "https://www.tabnine.com/",
+    "access": "Hosted or self-hosted",
+    "description": "Code assistance for development teams."
+  },
+  {
+    "category": "Local models",
+    "name": "Ollama",
+    "url": "https://ollama.com/",
+    "access": "Local",
+    "description": "Run compatible language models on local hardware."
+  },
+  {
+    "category": "Local models",
+    "name": "llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "access": "Local",
+    "description": "Inference engine for compatible quantized models."
+  },
+  {
+    "category": "Local models",
+    "name": "LM Studio",
+    "url": "https://lmstudio.ai/",
+    "access": "Local",
+    "description": "Desktop interface for downloading and running models."
+  },
+  {
+    "category": "Local models",
+    "name": "Jan",
+    "url": "https://jan.ai/",
+    "access": "Local",
+    "description": "Desktop AI assistant with local model options."
+  },
+  {
+    "category": "Local models",
+    "name": "Open WebUI",
+    "url": "https://docs.openwebui.com/",
+    "access": "Self-hosted",
+    "description": "Browser interface for local or remote model endpoints."
+  },
+  {
+    "category": "Local models",
+    "name": "GPT4All",
+    "url": "https://www.nomic.ai/gpt4all",
+    "access": "Local",
+    "description": "Desktop local-model chat and document workflows."
+  },
+  {
+    "category": "Local models",
+    "name": "vLLM",
+    "url": "https://docs.vllm.ai/",
+    "access": "Self-hosted",
+    "description": "High-throughput language model serving."
+  },
+  {
+    "category": "Local models",
+    "name": "Hugging Face Transformers",
+    "url": "https://huggingface.co/docs/transformers/",
+    "access": "Library",
+    "description": "Load and use pretrained transformer models."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "OpenAI API",
+    "url": "https://platform.openai.com/docs/",
+    "access": "API",
+    "description": "Integrate language and multimodal models into applications."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "Anthropic API",
+    "url": "https://docs.anthropic.com/",
+    "access": "API",
+    "description": "Integrate Claude models via API."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "Gemini API",
+    "url": "https://ai.google.dev/",
+    "access": "API",
+    "description": "Build applications with Gemini models."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "Hugging Face Inference Providers",
+    "url": "https://huggingface.co/docs/inference-providers/",
+    "access": "API",
+    "description": "Access supported model inference providers."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "OpenRouter",
+    "url": "https://openrouter.ai/",
+    "access": "API",
+    "description": "Route requests across available model providers."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "LiteLLM",
+    "url": "https://docs.litellm.ai/",
+    "access": "Self-hosted",
+    "description": "Unify access to multiple model APIs."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "Groq",
+    "url": "https://console.groq.com/docs/",
+    "access": "API",
+    "description": "Hosted inference for supported models."
+  },
+  {
+    "category": "APIs & gateways",
+    "name": "Replicate",
+    "url": "https://replicate.com/",
+    "access": "API",
+    "description": "Run hosted models through an API."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "LangChain",
+    "url": "https://docs.langchain.com/",
+    "access": "Library",
+    "description": "Compose model calls, tools and retrieval workflows."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "LangGraph",
+    "url": "https://docs.langchain.com/oss/python/langgraph/overview",
+    "access": "Library",
+    "description": "Build stateful model-driven workflows."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "LlamaIndex",
+    "url": "https://docs.llamaindex.ai/",
+    "access": "Library",
+    "description": "Connect application data to language models."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "Haystack",
+    "url": "https://haystack.deepset.ai/",
+    "access": "Library",
+    "description": "Build retrieval and model pipelines."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "DSPy",
+    "url": "https://dspy.ai/",
+    "access": "Library",
+    "description": "Optimize structured language-model programs."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "Pydantic AI",
+    "url": "https://ai.pydantic.dev/",
+    "access": "Library",
+    "description": "Build typed agent workflows in Python."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "CrewAI",
+    "url": "https://docs.crewai.com/",
+    "access": "Library",
+    "description": "Coordinate multiple agents and tasks."
+  },
+  {
+    "category": "Frameworks & automation",
+    "name": "n8n",
+    "url": "https://n8n.io/",
+    "access": "Hosted or self-hosted",
+    "description": "Connect automation workflows to model APIs."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "Qdrant",
+    "url": "https://qdrant.tech/",
+    "access": "Hosted or self-hosted",
+    "description": "Vector similarity search."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "Weaviate",
+    "url": "https://weaviate.io/",
+    "access": "Hosted or self-hosted",
+    "description": "Vector and hybrid search for retrieval."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "Milvus",
+    "url": "https://milvus.io/",
+    "access": "Self-hosted",
+    "description": "Vector database for similarity search."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "Chroma",
+    "url": "https://www.trychroma.com/",
+    "access": "Hosted or self-hosted",
+    "description": "Embedding storage and retrieval."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "pgvector",
+    "url": "https://github.com/pgvector/pgvector",
+    "access": "Library",
+    "description": "Vector similarity search extension for PostgreSQL."
+  },
+  {
+    "category": "Retrieval & search",
+    "name": "FAISS",
+    "url": "https://github.com/facebookresearch/faiss",
+    "access": "Library",
+    "description": "Efficient similarity search over dense vectors."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "Promptfoo",
+    "url": "https://www.promptfoo.dev/",
+    "access": "Local client",
+    "description": "Test prompts and model behavior against cases."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "Ragas",
+    "url": "https://docs.ragas.io/",
+    "access": "Library",
+    "description": "Evaluate retrieval-augmented generation workflows."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "DeepEval",
+    "url": "https://docs.confident-ai.com/",
+    "access": "Library",
+    "description": "Test language model outputs with evaluation metrics."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "Langfuse",
+    "url": "https://langfuse.com/",
+    "access": "Hosted or self-hosted",
+    "description": "Trace and evaluate model-based applications."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "Phoenix",
+    "url": "https://phoenix.arize.com/",
+    "access": "Self-hosted",
+    "description": "Inspect traces and evaluate model workflows."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "MLflow",
+    "url": "https://mlflow.org/",
+    "access": "Self-hosted",
+    "description": "Track experiments and evaluate machine learning applications."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "Inspect AI",
+    "url": "https://inspect.aisi.org.uk/",
+    "access": "Library",
+    "description": "Define reproducible model evaluation tasks."
+  },
+  {
+    "category": "Evaluation & observability",
+    "name": "lm-evaluation-harness",
+    "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+    "access": "Library",
+    "description": "Benchmark language models on supported tasks."
+  },
+  {
+    "category": "Images & audio",
+    "name": "ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "access": "Local",
+    "description": "Node-based image generation workflows."
+  },
+  {
+    "category": "Images & audio",
+    "name": "Hugging Face Diffusers",
+    "url": "https://huggingface.co/docs/diffusers/",
+    "access": "Library",
+    "description": "Build diffusion-model inference workflows."
+  },
+  {
+    "category": "Images & audio",
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com/",
+    "access": "Hosted",
+    "description": "Generate images through a hosted service."
+  },
+  {
+    "category": "Images & audio",
+    "name": "Adobe Firefly",
+    "url": "https://firefly.adobe.com/",
+    "access": "Hosted",
+    "description": "Generative image and creative workflows."
+  },
+  {
+    "category": "Images & audio",
+    "name": "Whisper",
+    "url": "https://github.com/openai/whisper",
+    "access": "Local",
+    "description": "Speech recognition using compatible hardware."
+  },
+  {
+    "category": "Images & audio",
+    "name": "faster-whisper",
+    "url": "https://github.com/SYSTRAN/faster-whisper",
+    "access": "Library",
+    "description": "Optimized Whisper transcription implementation."
+  },
+  {
+    "category": "Images & audio",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io/",
+    "access": "Hosted",
+    "description": "Speech synthesis; obtain consent for voice use."
+  },
+  {
+    "category": "Images & audio",
+    "name": "Audacity",
+    "url": "https://www.audacityteam.org/",
+    "access": "Local",
+    "description": "Audio editing with optional AI-related plugins."
+  }
+]
